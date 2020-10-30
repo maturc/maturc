@@ -1,5 +1,5 @@
 ### Hi there, I'm [Matija](https://maturc.github.io/portfolio/) 👋
-##### I am a web developer 👨‍💻
+#### I'm a web developer 👨‍💻
 <br/>
 Feel free to contact me, I would love to hear from you! 😄
 
