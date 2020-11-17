@@ -3,6 +3,7 @@
 <br/>
 Feel free to contact me, I would love to hear from you! 😄
 
+Social:<br/>
 [Dev.to](https://dev.to/maturc)<br/>
 [Portfolio](https://maturc.github.io/portfolio/)
 
