@@ -4,6 +4,7 @@
 Feel free to contact me, I would love to hear from you! 😄
 
 [Dev.to](https://dev.to/maturc)
+
 [Portfolio](https://maturc.github.io/portfolio/)
 
 <!--
